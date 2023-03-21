@@ -1,2 +1,2 @@
 # helloworld
-Hello World Repository
+Hello World Repository... since no other public ones exist, created as an educational medium...
